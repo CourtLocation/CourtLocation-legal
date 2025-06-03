@@ -73,7 +73,7 @@
 <body>
     <div class="container">
         <h1>Datenschutzerklärung</h1>
-        <p class="date">Stand: [DATUM EINFÜGEN]</p>
+        <p class="date">Stand: 03.06.2025</p>
 
         <h2>1. Verantwortlicher</h2>
         <div class="contact">
